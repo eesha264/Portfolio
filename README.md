@@ -5,7 +5,7 @@ A modern portfolio website built with React, TypeScript, and Tailwind CSS.
 ## Technologies
 
 This project is built with:
-
+- HTML
 - Vite
 - TypeScript
 - React
