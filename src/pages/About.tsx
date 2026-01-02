@@ -16,7 +16,7 @@ const About = () => {
               About Me
             </div>
             <h1 className="text-4xl md:text-5xl font-semibold text-primary-foreground mb-6">
-              Eeshitha <span className="text-accent">Gudipati</span>
+              Eeshitha <span className="text-accent">GONE</span>
             </h1>
             <p className="text-primary-foreground/70 text-lg">
               Hello, I'm Eeshitha — a UI/UX designer focused on creating clean, intuitive, and user-centered digital experiences.
@@ -34,7 +34,7 @@ const About = () => {
               <div className="aspect-[4/5] rounded-2xl overflow-hidden">
                 <img
                   src={profileImage}
-                  alt="Eeshitha Gudipati"
+                  alt="Eeshitha Gone"
                   className="w-full h-full object-cover"
                 />
               </div>
@@ -46,13 +46,13 @@ const About = () => {
                 <h2 className="section-title mb-6">My Story</h2>
                 <div className="space-y-4 text-muted-foreground leading-relaxed">
                   <p>
-                    With over 5 years of experience in UI/UX design, I've had the privilege of working with startups, agencies, and established brands to create digital experiences that truly resonate with users.
+                    I’m a passionate UI/UX designer who enjoys creating intuitive and visually engaging digital experiences. My interest lies in understanding users, their needs, and translating those insights into meaningful designs.
                   </p>
                   <p>
-                    My approach combines thorough user research with creative problem-solving, ensuring that every design decision is backed by insights and aligned with business goals.
+                    With a background in technology, I combine design thinking with problem-solving to build interfaces that are both functional and user-friendly. I value simplicity, consistency, and clarity in every design decision I make.
                   </p>
                   <p>
-                    I believe that great design is invisible — it simply works. My goal is to create interfaces that feel natural and intuitive, allowing users to accomplish their goals without friction.
+                    I’m continuously learning and refining my skills, aiming to create experiences that not only look good but feel effortless to use. This portfolio showcases my design journey and the ideas I bring to life.
                   </p>
                 </div>
               </div>
@@ -67,7 +67,7 @@ const About = () => {
                 <div className="bg-secondary rounded-xl p-5">
                   <MapPin className="w-5 h-5 text-accent mb-3" />
                   <h4 className="font-medium mb-1">Location</h4>
-                  <p className="text-muted-foreground text-sm">California, USA</p>
+                  <p className="text-muted-foreground text-sm">Hyderabad, India</p>
                 </div>
               </div>
 
@@ -76,11 +76,11 @@ const About = () => {
                 <h3 className="font-semibold mb-4">Get in Touch</h3>
                 <div className="flex flex-wrap gap-4">
                   <a
-                    href="mailto:hello@eeshitha.com"
+                    href="mailto:@eeshagone45@gmail.com"
                     className="inline-flex items-center gap-2 px-4 py-2 bg-secondary rounded-lg text-sm hover:bg-accent hover:text-accent-foreground transition-colors"
                   >
                     <Mail className="w-4 h-4" />
-                    hello@eeshitha.com
+                    eeshagone45@gmail.com
                   </a>
                   <a
                     href="#"
